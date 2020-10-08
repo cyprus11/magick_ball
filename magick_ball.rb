@@ -1,5 +1,7 @@
-greetings = File.readlines(__dir__ + "/data/greetings.txt", chomp: true)
-answers = File.readlines(__dir__ + "/data/answers.txt", chomp: true)
+data_path = "#{__dir__}/data"
+
+greetings = File.readlines("#{data_path}/greetings.txt", chomp: true)
+answers = File.readlines("#{data_path}/answers.txt", chomp: true)
 
 puts greetings.sample
 
