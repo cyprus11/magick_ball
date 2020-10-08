@@ -3,9 +3,18 @@
 
 Данная программа написана на языке программирования Ruby.
 Для того, чтобы запустить программу, вам необходимо выполнить 3 шага:
-1. ```$ git clone https://github.com/cyprus11/magick_ball.git```
-2. ```$ cd magick_ball```
-3. ```$ ruby magick_ball.rb```
+
+```
+$ git clone https://github.com/cyprus11/magick_ball.git
+```
+
+```
+$ cd magick_ball
+```
+
+```
+$ ruby magick_ball.rb
+```
 
 Чтобы увеличить вариативность приветствия, вам необходимо добавить их
 в файл: ```./data/greetings.txt```
