@@ -5,7 +5,7 @@
 Для того, чтобы запустить программу, вам необходимо выполнить 3 шага:
 
 ```
-$ git clone https://github.com/cyprus11/magick_ball.git
+$ git clone git@github.com:cyprus11/magick_ball.git
 ```
 
 ```
